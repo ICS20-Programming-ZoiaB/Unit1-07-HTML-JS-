@@ -8,6 +8,13 @@ body {
   background-color: #dec0da;
 }
 
+h2 {
+  background-color: rgb(103, 118, 131);
+  color: hsl(271deg 233% 232%);
+  padding: 40px;
+  text-align: center;
+}
+
 p {
   background-color: #a2e7ec;
   color: hsl(0deg 91% 32%);
